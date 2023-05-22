@@ -1,7 +1,7 @@
 # Личный проект «{{projectTitle}}»
 
-* Студент: [{{userName}}]({{userProfile}}).
-* Наставник: `Неизвестно`.
+* Студент: [Александр Левченко](https://htmlacademy.ru/profile/id2383825).
+* Наставник: `Илья Романков`.(https://htmlacademy.ru/profile/rsvp)
 
 ---
 
